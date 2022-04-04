@@ -1,0 +1,40 @@
+.background{
+    background:linear-gradient(to bottom,rgb(58, 204, 58),rgb(220, 241, 214));
+    height: 100vh;
+    display: flex;
+}
+    h2{
+        color: #0f0c0c;
+        font-style: normal;
+        text-align: center;
+        margin-left: 7px;
+        margin-top: 42px;
+        font-size: 40px;
+        font-family: "Audiowide", sans-serif;
+    }
+    h3{
+        font-family: normal;
+        color: #0f0c0c;
+        font-weight:bold;
+        padding-top: 20px;
+        padding-bottom: 16px;
+        margin-left: 366px;
+    }
+.card{
+    height: 500px;
+    width: 1000px;
+    margin-top: 134px;
+    margin-left: 275px;
+}
+button{
+    width: 360px;  
+    margin: 18px;
+    margin-left: 47px;
+}
+.submit{
+    width: 586px;
+    margin-left: 164px;
+    height: 45px;
+    font-weight: bold;
+    
+}
